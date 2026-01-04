@@ -1,7 +1,3 @@
-# MMOS2324_Seminar2_Ivan_Pribanić
-
-## Razvoj Mobilne Aplikacije: Motion Tracker
-
 ### Uvod
 Cilj ovog seminarskog rada je prikazati razvoj mobilne aplikacije koristeći Expo platformu.  
 Fokus aplikacije je na:  
